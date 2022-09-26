@@ -1,14 +1,8 @@
-111
+![purple galaxy](images/bannerimage.jpg "Purple Galaxy Photo")
 
-TODO: Write a project description
+# Team Go Go Go
 
-## Installation
-
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
+Best Dev team ever made in the universe!
 
 ## Contributing
 
@@ -18,17 +12,10 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
-TODO: Write credits
+Jie Yang and Justine Quimosing
 
 ## License
 
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+MIT
