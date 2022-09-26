@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:hw1}
+# Project Name
 
 TODO: Write a project description
 
