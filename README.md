@@ -2,7 +2,7 @@
 
 # Team Go Go Go
 
-Best Dev team ever made in the universe!
+Jie is from China, she likes try everything new. She laughs at Justine's bad jokes and is one of the sweetest people you will meet. Justine is from Philippines. She likes coffee, rap, language, japanese animation, helping Jie and other classmates with patience.
 
 ## Contributing
 
@@ -14,7 +14,7 @@ Best Dev team ever made in the universe!
 
 ## Credits
 
-Jie Yang and Justine Quimosing. Jie is from China, she likes try everything new. Justin is from philippines, she likes coffee, rap, language, japanese animation, helping Jie and other classmates with patience. She is the best.
+Jie Yang and Justine Quimosing.
 
 ## License
 
