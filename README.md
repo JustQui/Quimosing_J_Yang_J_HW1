@@ -14,7 +14,7 @@ Best Dev team ever made in the universe!
 
 ## Credits
 
-Jie Yang and Justine Quimosing
+Jie Yang and Justine Quimosing. Jie is from China, she likes try everything new. Justin is from philippines, she likes coffee, rap, language, japanese animation, helping Jie and other classmates with patience. She is the best.
 
 ## License
 
